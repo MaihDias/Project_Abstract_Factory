@@ -1,0 +1,14 @@
+C:\Users\android\Desktop\AbstractFactoryExample\AbstractFactoryExample\bin\Debug\netcoreapp3.1\AbstractFactoryExample.exe
+C:\Users\android\Desktop\AbstractFactoryExample\AbstractFactoryExample\bin\Debug\netcoreapp3.1\AbstractFactoryExample.deps.json
+C:\Users\android\Desktop\AbstractFactoryExample\AbstractFactoryExample\bin\Debug\netcoreapp3.1\AbstractFactoryExample.runtimeconfig.json
+C:\Users\android\Desktop\AbstractFactoryExample\AbstractFactoryExample\bin\Debug\netcoreapp3.1\AbstractFactoryExample.runtimeconfig.dev.json
+C:\Users\android\Desktop\AbstractFactoryExample\AbstractFactoryExample\bin\Debug\netcoreapp3.1\AbstractFactoryExample.dll
+C:\Users\android\Desktop\AbstractFactoryExample\AbstractFactoryExample\bin\Debug\netcoreapp3.1\AbstractFactoryExample.pdb
+C:\Users\android\Desktop\AbstractFactoryExample\AbstractFactoryExample\obj\Debug\netcoreapp3.1\AbstractFactoryExample.csproj.AssemblyReference.cache
+C:\Users\android\Desktop\AbstractFactoryExample\AbstractFactoryExample\obj\Debug\netcoreapp3.1\AbstractFactoryExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Desktop\AbstractFactoryExample\AbstractFactoryExample\obj\Debug\netcoreapp3.1\AbstractFactoryExample.AssemblyInfoInputs.cache
+C:\Users\android\Desktop\AbstractFactoryExample\AbstractFactoryExample\obj\Debug\netcoreapp3.1\AbstractFactoryExample.AssemblyInfo.cs
+C:\Users\android\Desktop\AbstractFactoryExample\AbstractFactoryExample\obj\Debug\netcoreapp3.1\AbstractFactoryExample.csproj.CoreCompileInputs.cache
+C:\Users\android\Desktop\AbstractFactoryExample\AbstractFactoryExample\obj\Debug\netcoreapp3.1\AbstractFactoryExample.dll
+C:\Users\android\Desktop\AbstractFactoryExample\AbstractFactoryExample\obj\Debug\netcoreapp3.1\AbstractFactoryExample.pdb
+C:\Users\android\Desktop\AbstractFactoryExample\AbstractFactoryExample\obj\Debug\netcoreapp3.1\AbstractFactoryExample.genruntimeconfig.cache
